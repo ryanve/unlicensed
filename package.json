@@ -1,0 +1,14 @@
+{
+  "name": "unlicensed",
+  "version": "0.0.0",
+  "description": "Test package to test UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/unlicensed.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ryanve/unlicensed/issues"
+  },
+  "homepage": "https://github.com/ryanve/unlicensed"
+}
